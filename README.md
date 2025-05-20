@@ -2,7 +2,7 @@
     
 A data analysis project that tracks global COVID-19 trends, including cases, deaths,recoveries, and vaccinations across countries and time.
 
-## Project Overview 
+## Project Overview  
  
 This project analyzes real-world COVID-19 data to:
 - Track the spread of COVID-19 across different countries
